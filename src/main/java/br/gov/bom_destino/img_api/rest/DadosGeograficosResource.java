@@ -1,4 +1,4 @@
-package br.gov.bom_destino.img.api.rest;
+package br.gov.bom_destino.img_api.rest;
 
 import java.io.Serializable;
 
